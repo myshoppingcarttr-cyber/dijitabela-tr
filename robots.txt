@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /panel.html
+Disallow: /teklif.html
+Disallow: /yukle.html
+Disallow: /onay.html
+Disallow: /siparis.html
+Disallow: /bar.html
+Disallow: /qr-kart.html
+Disallow: /yonetim.html
+Disallow: /kart.html
+Disallow: /lig.html
+Disallow: /_build/
+Disallow: /supabase/
+Disallow: /ornek/
+
+Sitemap: https://dijitabela.com.tr/sitemap.xml
